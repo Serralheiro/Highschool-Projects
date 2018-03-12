@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:id="@+id/tvgeral"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="100">
+
+        <TextView
+            android:id="@+id/textViewData"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="20"
+            android:gravity="start"
+            android:text="TextView"
+            android:textAlignment="textStart"
+            android:textSize="20sp"
+            android:padding="5sp"
+            />
+
+        <TextView
+            android:id="@+id/textViewLocal"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:padding="5sp"
+            android:layout_weight="40"
+            android:gravity="start"
+            android:text="TextView"
+            android:textAlignment="textStart"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textViewBalneário"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:padding="5sp"
+            android:layout_weight="40"
+            android:gravity="start"
+            android:text="TextView"
+            android:textAlignment="textStart"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+    <View
+        android:id="@+id/line1"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="#BBB"
+        android:padding="2dip" />
+</LinearLayout>

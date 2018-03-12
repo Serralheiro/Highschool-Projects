@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Endica</string>
+    <string name="main_turma">Seleciona a turma</string>
+    <string name="main_data">Data</string>
+    <string name="main_local">Local</string>
+    <string name="main_balnearios">Balneários</string>
+    <string name="next_aulas">Próximas aulas</string>
+    <string name="int_text">Seleciona a turma para consultar as próximas aulas de
+        Educação Física.</string>
+    <string name ="current_t">TS</string>
+    <string name ="author">Francisco Serralheiro</string>
+    <string name="descricao">
+        A aplicação Endica foi trabalhada no âmbito da disciplina Aplicações Informáticas B.
+        Com o principal objetivo de melhorar a vida escolar na ESDICA em mente, desenvolvi uma aplicação
+        que informa ao aluno o local das próximas aulas de educação física.
+        Espero que vos seja útil.
+
+
+    </string>
+</resources>

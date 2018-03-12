@@ -1,0 +1,7 @@
+#Sun Nov 12 18:18:17 GMT 2017
+base.0=C\:\\Users\\Serralheiro\\Desktop\\inDica\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1634eed9bd7c4c243e03f4f89e0fe278509ba7ae
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Serralheiro\\Desktop\\inDica\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4417b9a48e58b456914c73b87bf7f2d00642b9ef\\classes.dex
+base.1=C\:\\Users\\Serralheiro\\Desktop\\inDica\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4417b9a48e58b456914c73b87bf7f2d00642b9ef
+file.0=C\:\\Users\\Serralheiro\\Desktop\\inDica\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1634eed9bd7c4c243e03f4f89e0fe278509ba7ae\\classes.dex

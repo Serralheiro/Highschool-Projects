@@ -1,0 +1,1806 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aulas>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>2</dia>
+		<turma>2ºGPSI</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>2</dia>
+		<turma>11ºSEA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>2</dia>
+		<turma>2ºASAU</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>2</dia>
+		<turma>2ºGDESP</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>2</dia>
+		<turma>11ºCTB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>2</dia>
+		<turma>10ºCTB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>2</dia>
+		<turma>12ºCTB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>2</dia>
+		<turma>11ºLHA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>2</dia>
+		<turma>10ºLHA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>2</dia>
+		<turma>10ºCTC</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>2</dia>
+		<turma>11ºCTC</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>2</dia>
+		<turma>1ºDESP</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>10ºSEA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>10ºAVB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>10ºCTD</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>3ºMULT</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>10ºAVA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>11ºLHB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>12ºLHC</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>12ºSEA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>3ºGPSI</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>2ºMULT</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>11ºCTA</turma>
+		<local>Pavilhão 3</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>3ºSAU</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>12ºAV</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>12ºLHB</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>10ºLHC</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>11ºAV</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>2ºGDESP</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>1ºDESP</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>3</dia>
+		<turma>10ºLHB</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>4</dia>
+		<turma>11ºCTB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>4</dia>
+		<turma>10ºLHA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>4</dia>
+		<turma>12ºCTA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>4</dia>
+		<turma>10ºCTC</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>4</dia>
+		<turma>12ºCTC</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>4</dia>
+		<turma>12ºLHA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>4</dia>
+		<turma>11ºLHC</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>4</dia>
+		<turma>10ºCTA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>4</dia>
+		<turma>11ºCTC</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>1ºGPSI</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>2ºGPSI</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>1ºASAU</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>1ºDESP</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>2ºASAU</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>2ºGDESP</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>11ºSEA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>12ºAV</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>12ªLHB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>11ºAV</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>10ºCTD</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>11ºCTA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>3ºMULT</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>3ºASAU</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>11ºAV</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>2ºGDESP</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>1ºDESP</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>5</dia>
+		<turma>3ºGPSI</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>11ºLHB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>12ºLHA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>12ºCTB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>1ºDESP</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>10ºCTA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>10ºSEA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>12ºLHC</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>12ºSEA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>10ºLHB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>11ºLHA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>12ºCTA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>10ºLHC</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>10ºAVA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>10ºCTB</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>12ºCTC</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>2ºMULT</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>1</rotacao>
+		<dia>6</dia>
+		<turma>1ºMULT</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>2</dia>
+		<turma>2ªGPSI</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>2</dia>
+		<turma>12ªLHA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>2</dia>
+		<turma>10ºCTC</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>2</dia>
+		<turma>11ºCTC</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>2</dia>
+		<turma>10ºCTB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>2</dia>
+		<turma>11ºSEA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>2</dia>
+		<turma>2ºASAU</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>2</dia>
+		<turma>2ºGDESP</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>2</dia>
+		<turma>11ºCTB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>2</dia>
+		<turma>12ºCTB</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>2</dia>
+		<turma>11ºLHA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>2</dia>
+		<turma>11ºLHC</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>2</dia>
+		<turma>1ºDESP</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>2ºGDESP</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>1ºDESP</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>10ºLHB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>10ºSEA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>10ºAVB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>10ºCTD</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>3ºMULT</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>11ºAV</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>12ºLHC</turma>
+		<local>Pavilhão 3</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>12ºSEA</turma>
+		<local>Pavilhão 3</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>10ºAVA</turma>
+		<local>Exterior</local>
+	</record>
+
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>11ºLHB</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>11ºCTA</turma>
+		<local>Exterior</local>
+	</record>
+
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>3ºGPSI</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>2ºMULT</turma>
+		<local>Exterior</local>
+	</record>
+
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>3ºASAU</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>12ºAV</turma>
+		<local>Ginásio</local>
+	</record>
+
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>12ºLHB</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>3</dia>
+		<turma>10ºLHC</turma>
+		<local>Ginásio</local>
+	</record>
+
+	<record>
+		<rotacao>2</rotacao>
+		<dia>4</dia>
+		<turma>11ºCTB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>4</dia>
+		<turma>11ºLHC</turma>
+		<local>Pavilhão 1</local>
+	</record>
+
+	<record>
+		<rotacao>2</rotacao>
+		<dia>4</dia>
+		<turma>11ºCTC</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>4</dia>
+		<turma>10ºCTC</turma>
+		<local>Pavilhão 2</local>
+	</record>
+
+	<record>
+		<rotacao>2</rotacao>
+		<dia>4</dia>
+		<turma>10ºLHA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>4</dia>
+		<turma>12ºCTA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+
+	<record>
+		<rotacao>2</rotacao>
+		<dia>4</dia>
+		<turma>12ºCTC</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>4</dia>
+		<turma>12ºLHA</turma>
+		<local>Exterior</local>
+	</record>
+
+	<record>
+		<rotacao>2</rotacao>
+		<dia>4</dia>
+		<turma>10ºCTA</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>5</dia>
+		<turma>3ºASAU</turma>
+		<local>Pavilhão 1</local>
+	</record>
+
+	<record>
+		<rotacao>2</rotacao>
+		<dia>5</dia>
+		<turma>2ºGPSI</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>5</dia>
+		<turma>11ºAV</turma>
+		<local>Pavilhão 1</local>
+	</record>
+
+	<record>
+		<rotacao>2</rotacao>
+		<dia>5</dia>
+		<turma>1ºGPSI</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>5</dia>
+		<turma>12ºAV</turma>
+		<local>Pavilhão 2</local>
+	</record>
+
+	<record>
+		<rotacao>2</rotacao>
+		<dia>5</dia>
+		<turma>12ºLHB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>5</dia>
+		<turma>1ºASAU</turma>
+		<local>Pavilhão 2</local>
+	</record>
+
+	<record>
+		<rotacao>2</rotacao>
+		<dia>5</dia>
+		<turma>3ºGPSI</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>5</dia>
+		<turma>3ºMULT</turma>
+		<local>Pavilhão 2</local>
+	</record>
+
+	<record>
+		<rotacao>2</rotacao>
+		<dia>5</dia>
+		<turma>11ºSEA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>5</dia>
+		<turma>10ºAVB</turma>
+		<local>Exterior</local>
+	</record>
+
+	<record>
+		<rotacao>2</rotacao>
+		<dia>5</dia>
+		<turma>10ºCTD</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>5</dia>
+		<turma>11ºCTA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>5</dia>
+		<turma>1ºDESP</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>5</dia>
+		<turma>2ºGDESP</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>12ºCTA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>12ºCTC</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>2ºMULT</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>1ºDESP</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>1ºMULT</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>11ºLHB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>12ºLHA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>12ºCTB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>10ºCTA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>10ºSEA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>12ºLHC</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>12ºSEA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>10ºLHB</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>11ºLHA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>10ºLHC</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>10ºAVA</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>2</rotacao>
+		<dia>6</dia>
+		<turma>10ºCTB</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>2</dia>
+		<turma>2ºGPSI</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>2</dia>
+		<turma>12ºCTB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>2</dia>
+		<turma>11ºLHA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>2</dia>
+		<turma>11ºLHC</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>2</dia>
+		<turma>10ºCTB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>2</dia>
+		<turma>10ºLHA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>2</dia>
+		<turma>10ºCTC</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>2</dia>
+		<turma>11ºCTC</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>2</dia>
+		<turma>11ºSEA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>2</dia>
+		<turma>2ºASAU</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>2</dia>
+		<turma>2ºGDESP</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>2</dia>
+		<turma>11ºCTB</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>2</dia>
+		<turma>1ºDESP</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>3ºASAU</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>12ºAV</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>12ºLHB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>10ºLHC</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>2ºGDESP</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>1ºDESP</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>10ºLHB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>3ºGPSI</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>2ºMULT</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>3ºMULT</turma>
+		<local>Pavilhão 3</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>10ºSEA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>10ºAVB</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>10ºCTD</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>12ºLHC</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>12ºSEA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>11ºAV</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>10ºAVA</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>11ºLHB</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>3</dia>
+		<turma>11ºCTA</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>4</dia>
+		<turma>11ºCTB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>4</dia>
+		<turma>12ºCTC</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>4</dia>
+		<turma>10ºCTA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>4</dia>
+		<turma>10ºCTC</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>4</dia>
+		<turma>11ºLHC</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>4</dia>
+		<turma>11ºCTC</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>4</dia>
+		<turma>10ºLHA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>4</dia>
+		<turma>12ºCTA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>4</dia>
+		<turma>12ªLHA</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>5</dia>
+		<turma>11ºSEA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>5</dia>
+		<turma>2ºGPSI</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>5</dia>
+		<turma>10ºAVB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>5</dia>
+		<turma>10ºCTD</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>5</dia>
+		<turma>2ºASAU</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>5</dia>
+		<turma>2ºGDESP</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>5</dia>
+		<turma>3ºASAU</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>5</dia>
+		<turma>12ºAV</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>5</dia>
+		<turma>12ºLHB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>5</dia>
+		<turma>11ºAV</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>5</dia>
+		<turma>2ºGDESP</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>5</dia>
+		<turma>3ºMULT</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>5</dia>
+		<turma>1ºGPSI</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>5</dia>
+		<turma>1ºASAU</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>5</dia>
+		<turma>1ºDESP</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>5</dia>
+		<turma>3ºGPSI</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>10ºSEA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>10ºLHC</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>10ºAVA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>1ºDESP</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>10ºCTB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>12ºCTA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>12ºCTC</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>2ºMULT</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>1ºMULT</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>11ºLHB</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>12ºLHA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>12ºCTB</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>10ºCTA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>12ºLHC</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>12ºSEA</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>10ºLHB</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>3</rotacao>
+		<dia>6</dia>
+		<turma>11ºLHA</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>2</dia>
+		<turma>2ºGPSI</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>2</dia>
+		<turma>11ºSEA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>2</dia>
+		<turma>2ºASAU</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>2</dia>
+		<turma>2ºGDESP</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>2</dia>
+		<turma>11ºCTB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>2</dia>
+		<turma>10ºCTB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>2</dia>
+		<turma>12ºCTB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>2</dia>
+		<turma>11ºLHA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>2</dia>
+		<turma>11ºLHC</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>2</dia>
+		<turma>10ºLHA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>2</dia>
+		<turma>10ºCTC</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>2</dia>
+		<turma>11ºCTC</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>2</dia>
+		<turma>1ºDESP</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>10ºAVA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>11ºLHB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>11ºCTA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>3ºASAU</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>12ºAV</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>12ºLHB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>10ºLHC</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>11ºAV</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>10ºLHB</turma>
+		<local>Pavilhão 3</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>2ºGDESP</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>1ºDESP</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>3ºMULT</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>3ºGPSI</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>2ºMULT</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>10ºSEA</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>10ºAVB</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>10ºCTD</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>12ºLHC</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>3</dia>
+		<turma>12ºSEA</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>4</dia>
+		<turma>11ºCTB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>4</dia>
+		<turma>10ºLHA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>4</dia>
+		<turma>12ºLHA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>4</dia>
+		<turma>10ºCTC</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>4</dia>
+		<turma>12ºCTC</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>4</dia>
+		<turma>10ºCTA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>4</dia>
+		<turma>11ºLHC</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>4</dia>
+		<turma>11ºCTC</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>4</dia>
+		<turma>12ºCTA</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>1ºGPSI</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>2ºGPSI</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>1ºASAU</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>1ºDESP</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>2ºASAU</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>2ºGDESP</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>11ºSEA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>12ºAV</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>12ºLHB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>10ºAVB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>10ºCTD</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>11ºCTA</turma>
+		<local>Pavilhão 2	</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>3ºMULT</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>3ºASAU</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>11ºAV</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>2ºGDESP</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>1ºDESP</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>5</dia>
+		<turma>3ºGPSI</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>11ºLHB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>12ºLHC</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>12ºSEA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>10ºLHB</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>1ºDESP</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>11ºLHA</turma>
+		<local>Pavilhão 1</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>10ºSEA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>10ºLHC</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>10ºAVA</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>10ºCTB</turma>
+		<local>Pavilhão 2</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>12ºCTA</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>12ºCTC</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>2ºMULT</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>1ºMULT</turma>
+		<local>Exterior</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>12ºLHA</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>12ºCTB</turma>
+		<local>Ginásio</local>
+	</record>
+	<record>
+		<rotacao>4</rotacao>
+		<dia>6</dia>
+		<turma>10ºCTA</turma>
+		<local>Ginásio</local>
+	</record>
+</aulas>

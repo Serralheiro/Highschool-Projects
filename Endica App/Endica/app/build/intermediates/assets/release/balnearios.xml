@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<balnearios>
+    <record>
+        <local>Pavilhão 1</local>
+        <masculino>Masc 1</masculino>
+        <feminino>Fem 2</feminino>
+    </record>
+    <record>
+        <local>Pavilhão 2</local>
+        <masculino>Masc 4</masculino>
+        <feminino>Fem 3</feminino>
+    </record>
+    <record>
+        <local>Pavilhão 3</local>
+        <masculino>Masc 1</masculino>
+        <feminino>Fem 2</feminino>
+    </record>
+    <record>
+        <local>Exterior</local>
+        <masculino>Masc-Vest 3</masculino>
+        <feminino>Fem-Vest 1</feminino>
+    </record>
+    <record>
+        <local>Ginásio</local>
+        <masculino>Masc-Vest 4</masculino>
+        <feminino>Fem-Vest 2</feminino>
+    </record>
+</balnearios>

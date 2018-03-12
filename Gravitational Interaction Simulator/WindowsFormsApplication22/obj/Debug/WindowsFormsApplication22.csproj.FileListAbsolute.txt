@@ -1,0 +1,120 @@
+c:\users\aluno\documents\visual studio 2015\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+c:\users\aluno\documents\visual studio 2015\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+c:\users\aluno\documents\visual studio 2015\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+F:\12ºCT-A\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+F:\12ºCT-A\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+F:\12ºCT-A\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+F:\12ºCT-A\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+F:\12ºCT-A\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+F:\12ºCT-A\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+F:\12ºCT-A\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+F:\12ºCT-A\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+F:\12ºCT-A\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+F:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+F:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+F:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+F:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+F:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+F:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+F:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Simulador.resources
+F:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+F:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\Users\Aluno\Desktop\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Users\Aluno\Desktop\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Users\Aluno\Desktop\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Users\Aluno\Desktop\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Users\Aluno\Desktop\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Simulador.resources
+C:\Users\Aluno\Desktop\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+G:\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+G:\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+G:\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+G:\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+G:\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Simulador.resources
+G:\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+G:\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+G:\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+G:\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+F:\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+F:\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+F:\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+F:\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+F:\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+F:\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+F:\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Simulador.resources
+F:\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+F:\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+G:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+G:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+G:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+G:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+G:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+G:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+G:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Simulador.resources
+G:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+G:\12ºCT-A\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+C:\Users\V-User\Desktop\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\Users\V-User\Desktop\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Users\V-User\Desktop\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Users\V-User\Desktop\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Users\V-User\Desktop\Simulador Trajetória\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Users\V-User\Desktop\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+C:\Users\V-User\Desktop\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Simulador.resources
+C:\Users\V-User\Desktop\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Users\V-User\Desktop\Simulador Trajetória\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+F:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+F:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+F:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+F:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+F:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+F:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+F:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Simulador.resources
+F:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+F:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+G:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+G:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+G:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+G:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+G:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Simulador.resources
+G:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+G:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+G:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+G:\Simulador Trajetória ( Com a ideia do stor tentada)\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Users\Aluno\Desktop\Simulador Trajet├│ria ( Com a ideia do stor tentada)\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\Users\Aluno\Desktop\Simulador Trajet├│ria ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Users\Aluno\Desktop\Simulador Trajet├│ria ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Users\Aluno\Desktop\Simulador Trajet├│ria ( Com a ideia do stor tentada)\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Users\Aluno\Desktop\Simulador Trajet├│ria ( Com a ideia do stor tentada)\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Users\Aluno\Desktop\Simulador Trajet├│ria ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Simulador Trajet├│ria ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Simulador.resources
+C:\Users\Aluno\Desktop\Simulador Trajet├│ria ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Simulador Trajet├│ria ( Com a ideia do stor tentada)\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+C:\Users\V-User\Desktop\Simulador Força Gravítica\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\Users\V-User\Desktop\Simulador Força Gravítica\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Users\V-User\Desktop\Simulador Força Gravítica\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Users\V-User\Desktop\Simulador Força Gravítica\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Users\V-User\Desktop\Simulador Força Gravítica\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Users\V-User\Desktop\Simulador Força Gravítica\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+C:\Users\V-User\Desktop\Simulador Força Gravítica\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Simulador.resources
+C:\Users\V-User\Desktop\Simulador Força Gravítica\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Users\V-User\Desktop\Simulador Força Gravítica\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+F:\Simulador Força Gravítica\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+F:\Simulador Força Gravítica\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+F:\Simulador Força Gravítica\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+G:\Simulador Força Gravítica\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+G:\Simulador Força Gravítica\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+G:\Simulador Força Gravítica\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+G:\Simulador Força Gravítica\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+G:\Simulador Força Gravítica\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+G:\Simulador Força Gravítica\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+G:\Simulador Força Gravítica\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Simulador.resources
+G:\Simulador Força Gravítica\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+G:\Simulador Força Gravítica\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache

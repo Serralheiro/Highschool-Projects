@@ -1,0 +1,41 @@
+Progress Report, semana [1, 7] de Janeiro:
+
+Esta semana ficou marcada pela pesquisa do programa Xamarin. Tentei instalá-lo no meu computador pessoal mas estava a gerar muitos problemas de instalação e de emuladores. Os emuladores do Xamarin eram impossíveis de trabalhar com, pois eram muito lentos. Uma pesquisa na internet veio corroborar exatamente isso e oferecer possíveis soluções, todas passando pelo download de softwares adicionais. Tentei instalar o "Microsoft Visual Studio Emulator for Android", o que não resultou visto que o meu computador não suporta os requerimentos necessários. Ao instalar um software extra (Xamarin Android Player) deparei-me com mais problemas, neste caso, com erros ao tentar executar os simuladores. Posto isto, tudo apontava que iria ser preciso outro software. Foi também nesta semana que me deparei que ainda não tinha sido tomada uma decisão importantíssima em "app development": se iria ser desenvolvida uma "hybrid app" ou uma "native app". Após pesquisar prós e contras de cada um, concluí que talvez o ideal seria uma "hybrid app", visto que um dos meus grandes objetivos para esta app era que atingisse todos os aparelhos, independentemente do OS, era mais rápida e simples e não requeria comunicações específicas com o OS do aparelho.
+
+Progress Report, semana [8, 14] de Janeiro: 
+
+Entrei nesta semana convencido que iria desenvolver uma hybrid app. No entanto, e após uma tarde de briefing com o professor orientador, em que até se planeou em fazer uma web app, chegámos à conclusão que, do ponto de vista do utilizador, o ideal seria mesmo um widget, tendo em conta que o mais provável era que o utilizador quisesse ver, no máximo, onde seriam as duas próximas aulas, sem ter a maçada de ter que selecionar constantemente a sua turma. Se por acaso quisesse ver mais, clicaria no widget o que iria abrir uma app onde aí sim, pode alterar a turma e ver mais aulas. Assim, a abordagem teria que ser completamente diferente, teria que ser uma abordagem mais "native", cujo sistema operativo escolhido foi o Android (a escola tem uma maior abundância de Android's comparativamente com iOS's) e o software escolhido foi o "Android Studio". O próximo passo seria desenvolver uma aplicação com um widget simples para me familiarizar com o ambiente de programação.
+
+Progress Report, semana [15, 21] de Janeiro: 
+
+Esta semana começou com o desenvolvimento da app básica com o widget, à qual eu chamei "ModernHelloWorld!". A abordagem inicial era tentar que o utilizador, ao carregar na textbox do widget, abrisse a aplicação. No entanto, ao estar a ter dificuldades com essa abordagem, após pensar melhor e no contexto do projeto em mente, cheguei à conclusão que seria melhor um botão no widget, que abrisse a app. Ao tentar essa abordagem e após 2 dias consegui programar o botão no widget para abrir a aplicação. Com esta abordagem consegui entender-me muito bem com o design em XML e (muito pouco) com algum Java para o botão. Ao testar a app no emulador funcionava perfeitamente. Por outro lado, ao testá-la no meu smartphone Android, o widget não funcionava, não sendo possível carregar o widget. Finalmente, já para o final da semana, após ter um breve briefing com o professor orientador devido aos problemas de lentidão que estava a ter com o meu computador pessoal sempre que era necessário abrir o emulador, aconselhou-me a repensar na ideia da web app. Como eu não queria desistir da ideia do widget, pois é a solução perfeita para o problema em questão, fiz uma breve pesquisa sobre uma maneira qualquer de conseguir juntar a web app com um widget. Deparei-me com um plugin para o Cordova (Ace) que o permite exatamente - desenvolver uma aplicação com código "html" envolvido numa webview e código "native" para a mesma aplicação, com a opção de desenvolver um widget (só para Android). Pareceu-me o ideal. Aproveitava-se a vantagem da "cross-platform" duma web app e a conveniência de um widget. Assim, acabo esta semana a tentar uma nova abordagem ao problema. Desta vez, espero eu, que seja definitiva. Entro, assim, para a próxima semana a tentar um novo "hello world", desta vez feito com esta nova ferramenta. 
+
+Progress Report, semana [22, 28] de Janeiro: 
+
+Esta semana foi marcada pelo desenvolvimento do "ModernHelloWorld!" com o Apache Cordovoa no Visual Studio. Comecei por desenvolver o layout e, como estar sempre a ligar e desligar emuladores iria consumir um grande pedaço do tempo, resolvi testar "html" e "css" através de "testers" disponíveis na Internet. Utilizei o tester do W3Shools e o "JSFiddle". Após fazer o layout procedi para a programação de um simples algoritmo que, sempre que o utilizador carrega-se no botão, alteraria para uma cor "random" o texto "Hello World!". Posto isto, ao testar este algoritmo no "JSfiddle" estava tudo ok e funcionava como era suposto. No entanto, ao testar no Ripple Simulator, que é um simulador em web browser do Visual Studio, o algoritmo não funcionava. Foi aí que me deparei com o problema seguinte. Testar em emuladores do "Visual Studio Emulador" tornou-se impossível, visto que o meu computador não tinha RAM suficiente. Estava, assim, fora de questão os testes em emuladores. Para tentar resolver isso o mais lógico seria passar a testar em dispositivos sempre que fosse mesmo necessário. Ao levar o algoritmo para a escola e ao abrir o Ripple no Internet Explorer viu-se que funcionava como devia. O mais provável era que num dispositivo normal a app iria funcionar como era suposto.
+Finalmente, no último dia da semana consegui resolver o problema do Ripple no Chrome. Além disso, tomei também a decisão de expandir a RAM do meu computador pessoal para conseguir fazer testes, sempre que possível, em emuladores. Parto para a próxima semana com a tarefa de acabar o widget para o "ModernHelloWorld!" e talvez começar o projeto.
+
+Progress Report, semana [29, 4] de Janeiro para Fevereiro:
+
+Semana mais parada, encomendei a ram, resolvi os problemas da combobox em html.
+
+
+Progress Report, semana [5,11] de Fevereiro: 
+
+Resolvi o problema do calendário em HTML, montar RAM, passar a Android Studio, feito o MHW básico, funciona no meu Android, passo para a próxima semana com o objetivo de fazer testes da app básica em vários Androids e desenvolver o design final do projeto;
+
+Progress Report,semana [12,18] de Fevereiro:
+
+Não consegui testar em mais android nenhum pois o Android Studio (AS) não estava instalado no pc da escola. Comecei o projeto final no AS e elaborei o seu design. Fiz um brainstorm de nomes para a app e a decisão final vai ser entre inef e ineDiCa ou inDica. Resolvi desenvolver o MHW para gerar uma cor random e atribui-la à textview no widget, com o principal objetivo de aprender mais sobre a comunicação app-widget o que me vai ser fundamental para o projeto.
+
+Progress Report, semana [19,25] de Fevereiro:
+
+Terminada o MHW, passei para os testes. Os testes em várias versões Android correram bem, foi só preciso adicionar 2 linhas de código no design para corrigir um erro de layout. Iniciei o relatório do processo da criação do MHW. Tentei criar a mesma app com o Xamarin, mas deu problemas com o código gerado pelo software (?).
+
+Progress Report, semana [26, 4] de Fevereiro:
+
+Semana de elaboração do Relatório do Projeto do MHW.
+
+
+
+

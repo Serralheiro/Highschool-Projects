@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_28038068de620bbd8fda0f2e67fd6f7ff313aa54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_1feaa4b2ee0e3039a50f4da2bd3603126ce529c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_ca789e4540e3ffa54930d8ac479332cfe1dd4071\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_f472610c8e730824f534ab40dd180553a959a831\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e830462f0e7ed154cd9fbfffaa7c27359bb06ca">
+        <dex dex="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0972eea78239dd6f14501a4811ef2dd09c86af77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_c943e67dd034b6e0f0fd02f2998fc168237e4cea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_b2c5f8072e176d619071ff717152c7432f19f0fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_638c4e14eda9f3869e8335aca3abba37e976925b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_5e8cbe229658f15c7c22e6a988f11bd7a2038430\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_bad75acf72dbe71e3348cddbe43c61deff191996\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_9afb4de05940e97d1e67b3db03a6767ff7aeb97a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_513feb7ecac4043707ef73a2a7fdfd79a7ac83d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_ec28a94fc14c711fd491d13217f063d0036da27f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cba640b46750bf1e55f56d6adb3da6830798075a">
+        <dex dex="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_788238b24ee48e048b350a59f974de78293904cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_9123fdcd57def2ddbd3d154f666d92a0411df74f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_885e0df460868d65a49b8552f4e837ce6f5b74e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_a5faeaf13441881a90416c8eb9c2abd5651c0875\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08488dafe15bc17e7b5dfa39fe3bcdc7ad573852">
+        <dex dex="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d5893f262576f0556ec2b7c12b5eac1ff4628d4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\V-User\Desktop\EFisicaAppDevelopment\ModernHelloWorld\ModernHelloWorld(AS)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_c4e555637a8e78ca457ad09eac812bb152bb2bed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca1cb447b07b02cb85332cbbbec48fc6845571bd">
+        <dex dex="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5998f2c16734e0a2100eff8afb21349fa67f0385\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_0f846f0525e880af1b0ef726feed57371f9b9b81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_45482946d17a7fb720497469315fc3915e4bef72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\V-User\AndroidStudioProjects\ModernHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_7a175d7ca474191be4aebd44b11f3ae1f4d2e389\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,91 @@
+F:\GAProject\GA_VS\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+F:\GAProject\GA_VS\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+F:\GAProject\GA_VS\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+F:\GAProject\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+F:\GAProject\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form.resources
+F:\GAProject\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+F:\GAProject\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+F:\GAProject\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+F:\GAProject\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+C:\Users\V-User\Desktop\GA_Dev\GA_VS\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+C:\Users\V-User\Desktop\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+C:\Users\V-User\Desktop\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+C:\Users\V-User\Desktop\GA_Dev\GA_VS\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+C:\Users\V-User\Desktop\GA_Dev\GA_VS\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+C:\Users\V-User\Desktop\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+C:\Users\V-User\Desktop\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form.resources
+C:\Users\V-User\Desktop\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+C:\Users\V-User\Desktop\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+I:\GA_Dev\GA_VS\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+I:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+I:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+I:\GA_Dev\GA_VS\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+I:\GA_Dev\GA_VS\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+I:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+I:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form.resources
+I:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+I:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+H:\GA_Dev\GA_VS\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+H:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+H:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+H:\GA_Dev\GA_VS\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+H:\GA_Dev\GA_VS\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+H:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+H:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form.resources
+H:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+H:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+E:\GA_Dev\GA_VS\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+E:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+E:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+E:\GA_Dev\GA_VS\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+E:\GA_Dev\GA_VS\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+E:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+E:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form.resources
+E:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+E:\GA_Dev\GA_VS\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+E:\GA_Dev\GA_VS - Cópia\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+E:\GA_Dev\GA_VS - Cópia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+E:\GA_Dev\GA_VS - Cópia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+E:\GA_Dev\GA_VS - Cópia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+E:\GA_Dev\GA_VS - Cópia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form.resources
+E:\GA_Dev\GA_VS - Cópia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+E:\GA_Dev\GA_VS - Cópia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+C:\Users\V-User\Documents\GA_Dev\GA_VS - Cópia\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+C:\Users\V-User\Documents\GA_Dev\GA_VS - Cópia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+C:\Users\V-User\Documents\GA_Dev\GA_VS - Cópia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+C:\Users\V-User\Documents\GA_Dev\GA_VS - Cópia\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+C:\Users\V-User\Documents\GA_Dev\GA_VS - Cópia\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+C:\Users\V-User\Documents\GA_Dev\GA_VS - Cópia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+C:\Users\V-User\Documents\GA_Dev\GA_VS - Cópia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form.resources
+C:\Users\V-User\Documents\GA_Dev\GA_VS - Cópia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+C:\Users\V-User\Documents\GA_Dev\GA_VS - Cópia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+C:\Users\Aluno\Downloads\GA_VS - C├│pia\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+C:\Users\Aluno\Downloads\GA_VS - C├│pia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+C:\Users\Aluno\Downloads\GA_VS - C├│pia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+C:\Users\Aluno\Downloads\GA_VS - C├│pia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\GA_VS - C├│pia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+C:\Users\Aluno\Downloads\GA_VS - C├│pia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+C:\Users\Aluno\Downloads\GA_VS - C├│pia\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+C:\Users\Aluno\Downloads\GA_VS - C├│pia\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+C:\Users\Aluno\Downloads\GA_VS - C├│pia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.FormGA.resources
+C:\Users\Administrator\Desktop\GA_VS - C├│pia\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+C:\Users\Administrator\Desktop\GA_VS - C├│pia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+C:\Users\Administrator\Desktop\GA_VS - C├│pia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+C:\Users\Administrator\Desktop\GA_VS - C├│pia\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+C:\Users\Administrator\Desktop\GA_VS - C├│pia\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+C:\Users\Administrator\Desktop\GA_VS - C├│pia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GA_VS - C├│pia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.FormGA.resources
+C:\Users\Administrator\Desktop\GA_VS - C├│pia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GA_VS - C├│pia\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+H:\GA_Dev\GA_VS Ultimate\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+H:\GA_Dev\GA_VS Ultimate\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+H:\GA_Dev\GA_VS Ultimate\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+H:\GA_Dev\GA_VS Ultimate\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+H:\GA_Dev\GA_VS Ultimate\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+H:\GA_Dev\GA_VS Ultimate\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+H:\GA_Dev\GA_VS Ultimate\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.FormGA.resources
+H:\GA_Dev\GA_VS Ultimate\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+H:\GA_Dev\GA_VS Ultimate\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+C:\Users\V-User\Documents\Secundário\2016-2017 (12º)\Aplicações Informáticas\3ºP\GA_VS Ultimate\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+C:\Users\V-User\Documents\Secundário\2016-2017 (12º)\Aplicações Informáticas\3ºP\GA_VS Ultimate\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+C:\Users\V-User\Documents\Secundário\2016-2017 (12º)\Aplicações Informáticas\3ºP\GA_VS Ultimate\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
