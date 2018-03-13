@@ -1,7 +1,0 @@
-#Wed Mar 01 15:19:51 GMT 2017
-base.0=C\:\\Users\\V-User\\Desktop\\EFisicaAppDevelopment\\ModernHelloWorld\\ModernHelloWorld(AS)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0972eea78239dd6f14501a4811ef2dd09c86af77
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\V-User\\Desktop\\EFisicaAppDevelopment\\ModernHelloWorld\\ModernHelloWorld(AS)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d5893f262576f0556ec2b7c12b5eac1ff4628d4f\\classes.dex
-base.1=C\:\\Users\\V-User\\Desktop\\EFisicaAppDevelopment\\ModernHelloWorld\\ModernHelloWorld(AS)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d5893f262576f0556ec2b7c12b5eac1ff4628d4f
-file.0=C\:\\Users\\V-User\\Desktop\\EFisicaAppDevelopment\\ModernHelloWorld\\ModernHelloWorld(AS)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0972eea78239dd6f14501a4811ef2dd09c86af77\\classes.dex

@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Modern Hello World</string>
-    <string name="appwidget_text">Hello World!</string>
-    <string name="button_text">Change Color!</string>
-    <string name="add_widget">Add widget</string>
-    <string name="widget_text">Click Me!</string>
-</resources>
